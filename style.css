@@ -28,7 +28,7 @@ body{
 }
 .viewport2{
     width: 50vh;
-    background: url(/descarga.jfif);
+    background-color: aquamarine;
     width: 80vw;
     height: 50vh;
     font-family: 'Raleway', sans-serif;
