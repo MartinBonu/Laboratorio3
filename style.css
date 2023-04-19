@@ -1,0 +1,72 @@
+
+.cont-title1{
+    font-size: 30px;  
+    background-color: aqua;
+}
+
+body{
+
+    margin: inherit;
+    font-size: 16p  x;
+}
+
+.parrafo1{
+
+    font-size: 1rem;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.viewport{
+
+    width: 800px;
+
+
+
+    
+    
+}
+.viewport2{
+    width: 50vh;
+    background: url(/descarga.jfif);
+    width: 80vw;
+    height: 50vh;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.box{
+    border-color: black;
+    border-width: 5px;
+    background-color: beige;
+    
+    border-style: solid;
+    display: inline-block;  
+    
+    padding: 20px;
+    margin: inherit;
+    
+}
+
+.box p{
+    border-style: solid;
+}
+:root{
+    margin: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
